@@ -1,0 +1,200 @@
+myName=SCHMITT
+mySurname=Nicolas
+myAddressStreet=Vasco de Contreras N36-209
+myAddressCity=Quito
+myMobileNumber=0979255012
+myPhoneNumber===
+myMail=sathors@free.fr
+myBirthDate=13 de enero 1989==13 janvier 1989
+myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
+myCitizenship=Francesa=French=Français
+myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby
+myOperatingSystems=Linux y Windows=Linux & Windows=Linux et Windows
+myProtelDate=Agosto 2014 - Junio 2016=August 2014 - June 2016=Août 2014 - Juin 2016
+myProtelDescription=Coordinador del equipo de desarrollo, compuesto de seis personas. Desarrollo de un ERP financiero usando el framework open-source Odoo (con Python y PostgreSQL). Implementación de pruebas automaticas, de procesos de desarrollo ágiles (XP/Scrum), de programación en par y de mejora continua. Capacitaciones y presentaciones al equipo de desarrollo. Esto me permitió desarrollar mis competencias de manager.==
+myAlcatelDate=Marzo - Octubre 2012=March-October 2012=Mars-Octobre 2012
+myAtosDescription=Mejoramiento de un programa Java de monitoreo de flotas de vehículos ubicados con GPS. Trabajo en el protocolo de transmisión, asicomo en la interfaz web usando la tecnología Servlets Java. Programa muy grande, con muchas partes de retro-ingeniería (otra compañía empezó el código).==
+myAtosEmployer=Atos
+myAtosWebsite=atos.net
+myJobType=Pasantía=Internship=Stage
+myProtelJobType=Coordinador de Desarrollo
+myProtelEmployer=ProtelCotelsa S.A.
+myProtelWebsite=www.protelcotelsa.com
+myProtelAltWebsite=sistema-olympo.com
+myProtelPlace=Quito
+myProtelCountry=Ecuador
+myAtosPlace=Toulouse
+myAtosCountry=Francia=France=France
+myAtosDate=Junio - Septiembre 2011=June-September 2011=Juin-Septembre 2011
+myAlcatelDescription=Trabajo sobre algoritmos de auto configuración de grupos de small cells 3G (small cell: estación pequeña que permite extender la cobertura del señal en interiores). Desarrollo de un programa en MATLAB para procesar logs y visualizar en 3D interacciones entre las small cells, con el fin de mejorar los algoritmos. Trabajo sobre dos proyectos diferentes: una red de small cells cubriendo un hospital y asimismo en los edificios que se construyeron para los Juegos Olímpicos 2012 de Londres. Equipo repartido en diferentes países.==
+myAlcatelEmployer=Alcatel-Lucent
+myAlcatelWebsite=www.alcatel-lucent.com
+myAlcatelPlace=París=Paris=Paris
+myAlcatelCountry=Francia=France=France
+myCybertekDate=Julio - Septiembre 2010=July-September 2010=
+myCybertekDescription=Trabajo en una tienda de informática. Servicio de reparación de hardware y software, venta, asesoría al cliente.==
+myCybertekEmployer=Cybertek
+myCybertekWebsite=www.cybertek.fr
+myCybertekPlace=Toulouse
+myCybertekCountry=Francia=France=France
+myTripDate=Enero - Diciembre 2013=January-December 2013=Janvier-Décembre 2013
+myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.==
+myEnseeihtDate=Septiembre 2007 - Septiembre 2012=September 2009-September 2012=
+labelVisa=Visa
+myVisa=9 V EC Profesional Indefinida, Residente con cédula
+myEnseeihtDescription=ENSEEIHT (Escuela Nacional Superior de Electrónica, de Electricidad, de Informática, de Hidráulica y de Telecomunicaciones). Registros Senescyt 7766R-14-14628 y 7766R-14-15735.==
+myEnseeihtTitle=Ingeniero con maestría en Telecomunicaciones y Redes Informáticas=Engineer in Telecommunications and Computer Networks=Ingénieur Télécommunications et Réseaux Informatiques
+myCppTitle=Cycle Préparatoire Polytechnique de Nancy
+myCppDate=Septiembre 2007 - Agosto 2009
+myCppDescription=Escuela de preparacion a la entrada en la Escuela de ingeniero.
+myCppInstitution=CPP
+myCppPlace=Nancy
+myCppCountry=Francia
+myCppWebsite=www.la-prepa-des-inp.fr
+myEnseeihtInstitution=ENSEEIHT
+myEnseeihtPlace=Toulouse
+myEnseeihtCountry=Francia=France=France
+myInfotechDate=Octubre 2011 - Marzo 2012=October-March 2012=Octobre-Mars 2012
+myInfotechDescription=Un semestre cursando una maestría internacional (en inglés), sobre informática y  telecomunicaciones.=International master (in english), on IT and telecommunications.=Master international (en anglais), sur l'informatique et les télécommunications.
+myInfotechTitle=Programa de intercambio ERASMUS=Exchange program ERASMUS=Programme d'échange ERASMUS
+myInfotechInstitution=INFOTECH
+myInfotechPlace=Stuttgart
+myInfotechCountry=Alemania=Germany=Allemagne
+myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Talked and written. TOEIC (Test of English for International Communication) title, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
+myTripWebsite=envolavelo.fr
+mySpanishDescription=Hablado y escrito. Tres años viviendo en América Latina.=Talked and written. Three years in Latinamerica.=Parlé et écrit. Trois ans en Amérique Latine.
+myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.==
+myPortugueseDescription=Nivel básico.
+labelPortuguese=Portugués
+myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.==
+myFrenchDescription=Lengua materna.=Maternal language.=Langue maternelle.
+myDrivingLicence=Francesa=French=Français
+myEnseeihtWebsite=www.enseeiht.fr/en=www.enseeiht.fr/en=www.enseeiht.fr
+myInfotechWebsite=www.uni-stuttgart.de/infotech
+labelInfo=Información=Infomations=Informations
+labelBirth=Nacimiento=Birth=Naissance
+labelCitizenship=Nacionalidad=Citizenship=Nationalité
+labelDrivingLicense=Licencia de conducir=DrivingLicense=Permis de conduire
+labelDesiredEmploymentAndSkills=Trabajo Deseado y Competencias=Desired employment and skills=Travail recherché et compétences
+labelComputerSkills=Habilidades Informáticas=Computer skills=Capacités informatiques
+labelExperience=Experiencia=Experience=Experience
+labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)
+myERPFrameworks=Odoo (desarrollado en Python)
+labelWebDevFrameworks=Frameworks de Desarrollo Web
+labelMethodologies=Métodologias de Programación
+myMethodologies=Programación Extrema (XP), SCRUM
+labelPractices=Practicas de Programación
+myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua
+labelOtherSkills=Otros
+myOtherSkills=Mecanografía (touchtyping)
+myWebDevFrameworks=Ruby on Rails
+labelEducation=Educación=Educacion=Éducacion
+labelLanguages=Idiomas=Languages=Langues
+labelInterestsAndHobbies=Intereses y Hobbies=Interests and hobbies=Intérêts et hobbies
+labelExtra=Extra
+labelEnglish=Inglés=English=Anglais
+labelSpanish=Castellano=Spanish=Espagnol
+labelGerman=Alemán=German=Allemand
+labelFrench=Francés=French=Français
+labelJapanese=Japonés=Japanese=Japonais
+labelTraining=Formación Continua
+labelCourses=Cursos
+myEdxDescription=Fundado en 2012 por la universidad de Harvard y el Instituto Tecnológico de Massachusetts (MIT). No propone certificados gratuitos desde el primero de Enero del 2016.
+myCourseraDescription=Fundado en 2012. No propone certificados gratuitos desde Junio del 2015.
+labelNoteOnMoocs=Nota sobre los MOOCs
+myNoteOnMoocs=MOOCs (Massive Open Online Courses, o Cursos en Línea Masivos y Abiertos) son plataformas que ofrecen cursos online de nivel universitarío de un amplio rango de disciplinas para todo el mundo sin costos.
+myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela==
+labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langages de programmation
+labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
+labelCurriculumVitae=Curriculum Vitae
+labelWebsite=Sitio web=Website=Site web
+myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux & the Open-Source=Linux et l'Open-Source
+myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
+myHobby3=Música, toco el harmonica
+myDesiredEmployment=Ingeniero en Sistemas, Programador==
+mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación y de varias métodologías ágiles. He estado involucrado en importantes proyectos durante mis pasantías, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
+myEdxUrl=edx.org
+myCourseraUrl=coursera.org
+labelTechnicalBooks=Libros Técnicos Leídos
+labelPostalAddress=Dirección==
+book1Title=Extreme Programming Explained: Embrace Change
+myColon=:=:= :
+myPostalAddress=Granda Centeno, Quito, Ecuador==
+book1Author=Kent Beck
+book1Date=2004
+book2Title=Programming in Python 3: A Complete Introduction to the Python Language
+book2Author=Mark Summerfield
+book2Date=2009
+book3Title=Refactoring: Improving the Design of Existing Code
+book3Author=Martin Fowler and Kent Beck
+book3Date=1999
+book4Title=Test-Driven Development: By Example
+book4Author=Kent Beck
+book4Date=2003
+book5Title=The Well-Grounded Rubyist
+book5Author=David A. Black
+book5Date=2014
+book6Title=Essential Scrum: A Practical Guide to the Most Popular Agil Process
+book6Author=Kenneth S. Rubin
+book6Date=2012
+book7Title=Masterminds of Programming: Conversations With the Creators of Major Programming Languages
+book7Author=Federico Biancuzzi
+book7Date=2009
+book8Title=Working Effectively With Legacy Code
+book8Author=Michael C. Feathers
+book8Date=2004
+book9Title=The Mythical Man-Month: Essays on Software Engineering
+book9Author=Frederick Phillips Brooks
+book9Date=1995
+course1Date=Agosto 2014
+course1Name=Principles of Computing
+course1School=Rice University
+course1Platform=Coursera
+course2Date=Octubre 2014
+course2Name=Introduction to Data Science
+course2School=University of Washington
+course2Platform=Coursera
+course3Date=Noviembre 2014
+course3Name=Web Application Architectures
+course3School=University of New Mexico
+course3Platform=Coursera
+course4Date=Enero 2015
+course4Name=R Programming
+course4School=Bloomberg School of Public Health
+course4Platform=Coursera
+course5Date=Enero 2015
+course5Name=The Data Scientist's Toolbox
+course5School=John Hopkins University
+course5Platform=Coursera
+course6Date=Diciembre 2014
+course6Name=Engineering Software as a Service, Part 1
+course6School=University of California Berkeley
+course6Platform=Edx
+course7Date=Marzo 2015
+course7Name=Engineering Software as a Service, Part 2
+course7School=University of California Berkeley
+course7Platform=Edx
+course8Date=Mayo 2015
+course8Name=Computing: Art, Magic, Science
+course8School=Swiss Federal Institute of Technology in Zurich
+course8Platform=Edx
+course9Date=Mayo 2015
+course9Name=Programming with C\\#
+course9School=Microsoft
+course9Platform=Edx
+course10Date=Julio 2015
+course10Name=Web Design Fundamentals Part 1
+course10School=World Wide Web Consortium (W3C)
+course10Platform=Edx
+course11Date=Agosto 2015
+course11Name=Inclusive Leadership: Becoming a Successful Leader
+course11School=Catalyst
+course11Platform=Edx
+course12Date=Septiembre 2015
+course12Name=Innovation and IT Management
+course12School=Indian Institute of Management of Bangalore
+course12Platform=Edx
+course13Date=Abril 2015
+course13Name=Contabilidad General
+course13School=Centro de Estudios de la Cámara de Comercio de Quito
+withDistinction=Con Distinción

@@ -1,0 +1,268 @@
+%% start of file `moderncv_ntrp_template_en.tex'.
+%% Copyright 2007 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+%
+% Modded by ntrp (nitropowered@gmail.com)
+
+\documentclass[11pt,a4paper]{moderncv}
+
+% moderncv themes
+%\moderncvtheme[blue]{casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+\moderncvtheme[green]{classic}                % idem
+
+\usepackage[T1]{fontenc}
+% character encoding
+\usepackage[utf8x]{inputenc}                   % replace by the encoding you are using
+%\usepackage[croatian]{babel}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\recomputelengths                             % required when changes are made to page layout lengths
+
+\fancyfoot{} % clear all footer fields
+\fancyfoot[LE,RO]{\thepage}           % page number in "outer" position of footer line
+\fancyfoot[RE,LO]{\footnotesize myName mySurname} % other info in "inner" position of footer line
+
+% personal data
+\firstname{myName}
+\familyname{mySurname}
+\title{labelCurriculumVitae}               % optional, remove the line if not wanted
+%\address{myAddressStreet}{myAddressCity}    % optional, remove the line if not wanted
+\mobile{myMobileNumber}                    % optional, remove the line if not wanted
+%\phone{myPhoneNumber}                      % optional, remove the line if not wanted
+%\fax{<Fax number>}                          % optional, remove the line if not wanted
+\email{myMail}                      % optional, remove the line if not wanted
+%\extrainfo{additional information (optional)} % optional, remove the line if not wanted
+\photo[84pt]{photo.png}                         % '64pt' is the height the picture must be resized to and 'picture' is the name of the picture file; optional, remove the line if not wanted
+%\quote{"Success is the ability to go from failure to failure without losing your enthusiasm." -- Winston Churchill}                 % optional, remove the line if not wanted
+\quote{myQuote}                 % optional, remove the line if not wanted
+%\quote{"Días de trabajo, únicos días en los que he vivido." -- Alfred de Musset}           % optional, remove the line if not wanted
+%\quote{"El aburrimiento es una enfermedad cuyo remedio es el trabajo." -- Duque de Levis}  % optional, remove the line if not wanted
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+%Section
+\newcommand\mycvcomputer[2]{%
+    \cvcomputer{#1}{\small{#2}}
+}
+\vbox{%
+    \section{labelInfo}
+    \mycvcomputer%
+        {labelBirth}{myBirthDate (myBirthPlace)}
+        {labelCitizenship}{myCitizenship}
+    \mycvcomputer%
+        {labelPostalAddress}{myPostalAddress}
+        {labelDrivingLicense}{myDrivingLicence}
+    \mycvcomputer%
+        {labelVisa}{myVisa}
+        {}{}
+}
+
+%Section
+\vbox{%
+    \section{labelDesiredEmploymentAndSkills}
+    \cvline{}{\Large myDesiredEmployment}
+    \cvline{}{\small mySkills}
+}
+
+%Section
+\vbox{%
+    \section{labelEducation}
+    \cventry%
+        {myEnseeihtDate}{myEnseeihtTitle}{myEnseeihtInstitution}
+        {myEnseeihtPlace}{myEnseeihtCountry}{myEnseeihtDescription}
+    \cvlistitem{\href{myEnseeihtWebsite}{myEnseeihtWebsite}}
+    \cventry%
+        {myInfotechDate}{myInfotechTitle}{myInfotechInstitution}
+        {myInfotechPlace}{myInfotechCountry}{myInfotechDescription}
+    \cvlistitem{\href{myInfotechWebsite}{myInfotechWebsite}}
+}
+
+%Section
+\newcommand\computerskill[2]{
+    \cvitem{}{{\large \textbf{#1myColon}} #2}
+}
+\vbox{%
+    \section{labelComputerSkills}
+    \computerskill{labelProgrammingLanguages}{myProgrammingLanguages}
+    \computerskill{labelOperatingSystems}{myOperatingSystems}
+    \computerskill{labelERPFrameworks}{myERPFrameworks}
+    \computerskill{labelWebDevFrameworks}{myWebDevFrameworks}
+    \computerskill{labelMethodologies}{myMethodologies}
+    \computerskill{labelPractices}{myPractices}
+    \computerskill{labelOtherSkills}{myOtherSkills}
+}
+
+%Section
+\vbox{%
+    \section{labelExperience}
+    \cventry%
+        {myProtelDate}{myProtelJobType}{\href{myProtelWebsite}{myProtelEmployer}}
+        {myProtelPlace}{myProtelCountry}{myProtelDescription}
+    \cvlistitem{\href{myProtelWebsite}{myProtelWebsite}}
+    \cvlistitem{\href{myProtelAltWebsite}{myProtelAltWebsite}}
+    \cventry%
+        {myAlcatelDate}{myJobType}{\href{myAlcatelWebsite}{myAlcatelEmployer}}
+        {myAlcatelPlace}{myAlcatelCountry}{myAlcatelDescription}
+    \cvlistitem{\href{myAlcatelWebsite}{myAlcatelWebsite}}
+    \cventry%
+        {myAtosDate}{myJobType}{\href{myAtosWebsite}{myAtosEmployer}}
+        {myAtosPlace}{myAtosCountry}{myAtosDescription}
+    \cvlistitem{\href{myAtosWebsite}{myAtosWebsite}}
+    \cventry%
+        {myCybertekDate}{myJobType}{\href{myCybertekWebsite}{myCybertekEmployer}}
+        {myCybertekPlace}{myCybertekCountry}{myCybertekDescription}
+    \cvlistitem{\href{myCybertekWebsite}{myCybertekWebsite}}
+}
+
+%Section
+\newcommand\bookentry[3]{
+    \cventry{}{#1}{#2}{#3}{}{}
+}
+\vbox{%
+    \section{labelTraining}
+    \subsection{labelCourses}
+    \cventry%
+        {course12Date}{course12Name}
+        {course12School}{course12Platform}{}{}
+    \cventry%
+        {course11Date}{course11Name}
+        {course11School}{course11Platform}{}{}
+    \cventry%
+        {course10Date}{course10Name}
+        {course10School}{course10Platform}{}{}
+    \cventry%
+        {course9Date}{course9Name}
+        {course9School}{course9Platform}{}{}
+    \cventry%
+        {course13Date}{course13Name}
+        {course13School}{}{}{}
+    \cventry%
+        {course8Date}{course8Name}
+        {course8School}{course8Platform}{}{}
+    \cventry%
+        {course7Date}{course7Name}
+        {course7School}{course7Platform}{}{}
+    \cventry%
+        {course5Date}{course5Name}
+        {course5School}{course5Platform}{}{withDistinction}
+    \cventry%
+        {course4Date}{course4Name}
+        {course4School}{course4Platform}{}{withDistinction}
+    \cventry%
+        {course6Date}{course6Name}
+        {course6School}{course6Platform}{}{}
+    \cventry%
+        {course3Date}{course3Name}
+        {course3School}{course3Platform}{}{withDistinction}
+    \cventry%
+        {course2Date}{course2Name}
+        {course2School}{course2Platform}{}{withDistinction}
+    \cventry%
+        {course1Date}{course1Name}
+        {course1School}{course1Platform}{}{withDistinction}
+    \subsection{labelNoteOnMoocs}
+    \cvitem{}{myNoteOnMoocs}
+    \cvdoubleitem%
+        {EDX}{\small myEdxDescription \cvlistitem{%
+            \href{myEdxUrl}{myEdxUrl}
+        }}
+        {Coursera}{\small myCourseraDescription \cvlistitem{%
+            \href{myCourseraUrl}{myCourseraUrl}
+        }}
+}
+\vbox{%
+    \subsection{labelTechnicalBooks}
+    \bookentry{book1Title}{book1Author}{book1Date}
+    \bookentry{book2Title}{book2Author}{book2Date}
+    \bookentry{book3Title}{book3Author}{book3Date}
+    \bookentry{book4Title}{book4Author}{book4Date}
+    \bookentry{book5Title}{book5Author}{book5Date}
+    \bookentry{book6Title}{book6Author}{book6Date}
+    \bookentry{book7Title}{book7Author}{book7Date}
+    \bookentry{book8Title}{book8Author}{book8Date}
+    \bookentry{book9Title}{book9Author}{book9Date}
+}
+
+%Section
+\vbox{%
+}
+
+%\cventry{start-end}{<Position Held>}{<Name of employer>}{<Place>}{<Country>}{<Description>} % arguments 3 to 6 are optional
+%\subsection{Estudios}
+%\cventry{start-end}{<Brief Description>}{<Institution>}{<Place>}{<Country>}{<Description>} % arguments 3 to 6 are optional
+%\subsection{Various}
+%\cventry{start-end}{<Brief Description>}{<Institution>}{<Place>}{<Country>}{<Description>} % arguments 3 to 6 are optional
+
+%Section
+%\section{Master thesis}
+%\cvline{title}{\emph{Title}}
+%\cvline{supervisors}{Supervisors}
+%\cvline{description}{\small Short thesis abstract}
+
+%Section
+\vbox{%
+    \section{labelLanguages}
+    \cvline{labelEnglish}{myEnglishDescription}
+    \cvline{labelSpanish}{mySpanishDescription}
+    \cvline{labelFrench}{myFrenchDescription}
+    \cvline{labelGerman}{myGermanDescription}
+    \cvline{labelJapanese}{myJapaneseDescription}
+    \cvline{labelPortuguese}{myPortugueseDescription}
+}
+
+%\hspace{25mm}\small Self-assessment European level \href{http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr}{CEFR} (C2 maximum evaluation)\normalsize
+%\vspace{5mm}
+
+%\begin{tabular}{p{67mm} p{40mm} p{40mm} p{20mm}}
+%& \textbf{Understanding} & \textbf{Speaking} & \textbf{Writing} \\
+%\end{tabular}
+
+%\begin{tabular}{p{67mm} p{20mm} p{20mm} p{20mm} p{20mm} p{20mm}}
+%& Listening & Reading & Interaction & Production & \\
+%\end{tabular}
+
+%\vspace{3mm}
+%lvl should be in this range A1 < A2 < B1 < B2 < C1 < C2
+%\cvlanguage{<Lang 1>}{<Level>}{
+	%\begin{tabular}{p{20mm} p{20mm} p{20mm} p{20mm} p{21mm}}
+		%lvl & lvl & lvl & lvl & lvl
+	%\end{tabular}}
+%\cvlanguage{<Lang 2>}{<Level>}{
+	%\begin{tabular}{p{20mm} p{20mm} p{20mm} p{20mm} p{21mm}}
+		%lvl & lvl & lvl & lvl & lvl
+	%\end{tabular}}
+
+%Section
+\vbox{%
+    \section{labelExtra}
+    \cvline{myTripDate} {\small myTripDescription}
+}
+
+%Section
+\vbox{%
+    \section{labelInterestsAndHobbies}
+    \cvlistitem{myHobby1}
+    \cvlistitem{myHobby2}
+    \cvlistitem{myHobby3}
+}
+
+\closesection{}                   % needed to renewcommands
+\renewcommand{\listitemsymbol}{-} % change the symbol for lists
+
+% Publications from a BibTeX file
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}       % 'publications' is the name of a BibTeX file
+
+\end{document}

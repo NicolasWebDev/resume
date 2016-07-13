@@ -1,0 +1,5 @@
+*.aux
+*.log
+*.out
+*_filled.tex
+*.swp
