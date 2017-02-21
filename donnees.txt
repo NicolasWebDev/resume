@@ -4,7 +4,7 @@ myAddressStreet=Vasco de Contreras N36-209
 myAddressCity=Quito
 myMobileNumber=0979255012
 myPhoneNumber===
-myMail=sathors@free.fr
+myMail=info@nicolaswebdev.com
 myBirthDate=13 de enero 1989==13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
