@@ -8,8 +8,22 @@ myMail=sathors@free.fr
 myBirthDate=13 de enero 1989==13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
-myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby
+myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell
 myOperatingSystems=Linux y Windows=Linux & Windows=Linux et Windows
+myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
+myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: • Introducción a la Programación (parte 1) • Bases de Desarrollo Web (HTML/CSS/JS) • Desarrollo Android • Desarrollo Javascript Front-End con Angular==
+myCodexJobType=Director Académico=Academic Director=Directeur Académique
+myCodexEmployer=CodexInstitute SA
+myCodexWebsite=codexinstitute.com
+myCodexPlace=Quito
+myCodexCountry=Ecuador
+myNicolasWebDevDate=Junio 2016 - Presente=June 2016 - Present=Juin 2016 - Présent
+myNicolasWebDevDescription=Desarrollo Web Ágil y Consultoría. Puedo desarrollar la Webapp que su empresa necesita, usando Ruby on Rails. Ofrezco también consultoría sobre procesos de desarrollo de software, para ayudarles con el mantenimiento de sus productos y acelerar la velocidad de su desarrollo.==
+myNicolasWebDevJobType=Desarrollador Web y Consultor=Web Developer & Consultant=Développeur Web et Consultant
+myNicolasWebDevEmployer=Freelance
+myNicolasWebDevWebsite=nicolaswebdev.com
+myNicolasWebDevPlace=Quito
+myNicolasWebDevCountry=Ecuador
 myProtelDate=Agosto 2014 - Junio 2016=August 2014 - June 2016=Août 2014 - Juin 2016
 myProtelDescription=Coordinador del equipo de desarrollo, compuesto de seis personas. Desarrollo de un ERP financiero usando el framework open-source Odoo (con Python y PostgreSQL). Implementación de pruebas automaticas, de procesos de desarrollo ágiles (XP/Scrum), de programación en par y de mejora continua. Capacitaciones y presentaciones al equipo de desarrollo. Esto me permitió desarrollar mis competencias de manager.==
 myAlcatelDate=Marzo - Octubre 2012=March-October 2012=Mars-Octobre 2012
@@ -134,7 +148,7 @@ book4Date=2003
 book5Title=The Well-Grounded Rubyist
 book5Author=David A. Black
 book5Date=2014
-book6Title=Essential Scrum: A Practical Guide to the Most Popular Agil Process
+book6Title=Essential Scrum: A Practical Guide to the Most Popular Agile Process
 book6Author=Kenneth S. Rubin
 book6Date=2012
 book7Title=Masterminds of Programming: Conversations With the Creators of Major Programming Languages
