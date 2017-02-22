@@ -8,7 +8,7 @@ myMail=info@nicolaswebdev.com
 myBirthDate=13 de enero 1989==13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
-myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell
+myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
 myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
 myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: • Introducción a la Programación (parte 1) • Bases de Desarrollo Web (HTML/CSS/JS) • Desarrollo Android • Desarrollo Javascript Front-End con Angular==
