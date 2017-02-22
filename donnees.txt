@@ -1,4 +1,8 @@
 myName=SCHMITT
+labelLinkedin=LinkedIn
+labelGithub=Github
+myLinkedin=linkedin.com/in/nicolaswebdev
+myGithub=github.com/Sathors
 mySurname=Nicolas
 myAddressStreet=Vasco de Contreras N36-209
 myAddressCity=Quito
