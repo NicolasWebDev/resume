@@ -11,7 +11,7 @@ myCitizenship=Francesa=French=Français
 myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
 myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
-myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: • Introducción a la Programación (parte 1) • Bases de Desarrollo Web (HTML/CSS/JS) • Desarrollo Android • Desarrollo Javascript Front-End con Angular==
+myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular==
 myCodexJobType=Director Académico=Academic Director=Directeur Académique
 myCodexEmployer=CodexInstitute SA
 myCodexWebsite=codexinstitute.com
@@ -76,7 +76,7 @@ myInfotechPlace=Stuttgart
 myInfotechCountry=Alemania=Germany=Allemagne
 myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Talked and written. TOEIC (Test of English for International Communication) title, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
 myTripWebsite=envolavelo.fr
-mySpanishDescription=Hablado y escrito. Tres años viviendo en América Latina.=Talked and written. Three years in Latinamerica.=Parlé et écrit. Trois ans en Amérique Latine.
+mySpanishDescription=Hablado y escrito. Cuatro años viviendo en América Latina.=Talked and written. Three years in Latinamerica.=Parlé et écrit. Trois ans en Amérique Latine.
 myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.==
 myPortugueseDescription=Nivel básico.
 labelPortuguese=Portugués
@@ -89,7 +89,7 @@ labelInfo=Información=Infomations=Informations
 labelBirth=Nacimiento=Birth=Naissance
 labelCitizenship=Nacionalidad=Citizenship=Nationalité
 labelDrivingLicense=Licencia de conducir=DrivingLicense=Permis de conduire
-labelDesiredEmploymentAndSkills=Trabajo Deseado y Competencias=Desired employment and skills=Travail recherché et compétences
+labelDesiredEmploymentAndSkills=Trabajo Actual y Competencias=Desired employment and skills=Travail recherché et compétences
 labelComputerSkills=Habilidades Informáticas=Computer skills=Capacités informatiques
 labelExperience=Experiencia=Experience=Experience
 labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)
@@ -125,7 +125,7 @@ labelWebsite=Sitio web=Website=Site web
 myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linux et l'Open-Source
 myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
 myHobby3=Música, toco el harmonica
-myDesiredEmployment=Ingeniero en Sistemas, Programador==
+myDesiredEmployment=Freelancer en Desarrollo Web y Consulting==
 mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación y de varias métodologías ágiles. He estado involucrado en importantes proyectos durante mis pasantías, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
 myEdxUrl=edx.org
 myCourseraUrl=coursera.org
