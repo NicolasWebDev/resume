@@ -9,7 +9,7 @@ myBirthDate=13 de enero 1989==13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
 myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell
-myOperatingSystems=Linux y Windows=Linux & Windows=Linux et Windows
+myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
 myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
 myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: • Introducción a la Programación (parte 1) • Bases de Desarrollo Web (HTML/CSS/JS) • Desarrollo Android • Desarrollo Javascript Front-End con Angular==
 myCodexJobType=Director Académico=Academic Director=Directeur Académique
@@ -19,7 +19,7 @@ myCodexPlace=Quito
 myCodexCountry=Ecuador
 myNicolasWebDevDate=Junio 2016 - Presente=June 2016 - Present=Juin 2016 - Présent
 myNicolasWebDevDescription=Desarrollo Web Ágil y Consultoría. Puedo desarrollar la Webapp que su empresa necesita, usando Ruby on Rails. Ofrezco también consultoría sobre procesos de desarrollo de software, para ayudarles con el mantenimiento de sus productos y acelerar la velocidad de su desarrollo.==
-myNicolasWebDevJobType=Desarrollador Web y Consultor=Web Developer & Consultant=Développeur Web et Consultant
+myNicolasWebDevJobType=Desarrollador Web y Consultor=Web Developer and Consultant=Développeur Web et Consultant
 myNicolasWebDevEmployer=Freelance
 myNicolasWebDevWebsite=nicolaswebdev.com
 myNicolasWebDevPlace=Quito
@@ -122,7 +122,7 @@ labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langa
 labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
 labelCurriculumVitae=Curriculum Vitae
 labelWebsite=Sitio web=Website=Site web
-myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux & the Open-Source=Linux et l'Open-Source
+myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linux et l'Open-Source
 myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
 myHobby3=Música, toco el harmonica
 myDesiredEmployment=Ingeniero en Sistemas, Programador==
@@ -131,9 +131,9 @@ myEdxUrl=edx.org
 myCourseraUrl=coursera.org
 labelTechnicalBooks=Libros Técnicos Leídos
 labelPostalAddress=Dirección==
-book1Title=Extreme Programming Explained: Embrace Change
 myColon=:=:= :
 myPostalAddress=Granda Centeno, Quito, Ecuador==
+book1Title=Extreme Programming Explained: Embrace Change
 book1Author=Kent Beck
 book1Date=2004
 book2Title=Programming in Python 3: A Complete Introduction to the Python Language
@@ -160,6 +160,24 @@ book8Date=2004
 book9Title=The Mythical Man-Month: Essays on Software Engineering
 book9Author=Frederick Phillips Brooks
 book9Date=1995
+book10Title=Rails Antipatterns: Best Practice Ruby on Rails Refactoring
+book10=Chad Pytel and Tammer Saleh
+book10Date=2010
+book11Title=Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+book11Author=Dave Hoover and Adewale Oshineye
+book11Date=2009
+book12Title=Learn You a Haskell for Great Good!: A Beginner's Guide
+book12Author=Miran Lipovača
+book12Date=2011
+book13Title=Agile Web Development With Rails 4
+book13Author=Sam Ruby and David Thomas and David Heinemeier Hansson
+book13Date=2013
+book14Title=Practical Object-Oriented Design in Ruby: An Agile Primer
+book14Author=Sandi Metz
+book14Date=2012
+book15Title=The Pragmatic Programmer: From Journeyman to Master
+book15Author=Andrew Hunt
+book15Date=1999
 course1Date=Agosto 2014
 course1Name=Principles of Computing
 course1School=Rice University
