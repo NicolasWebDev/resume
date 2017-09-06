@@ -2,7 +2,7 @@ myName=SCHMITT
 labelLinkedin=LinkedIn
 labelGithub=Github
 myLinkedin=linkedin.com/in/nicolaswebdev
-myGithub=github.com/Sathors
+myGithub=github.com/NicolasWebDev
 mySurname=Nicolas
 myAddressStreet=Vasco de Contreras N36-209
 myAddressCity=Quito
@@ -12,7 +12,9 @@ myMail=info@nicolaswebdev.com
 myBirthDate=13 de enero 1989==13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
-myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript
+myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript, Node.js, PHP
+myTechTools=Virtualización con Docker, manejo de Cloud con Amazon Web Services, control de revisiones con git y bazaar
+labelTechTools=Herramientas
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
 myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
 myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular==
@@ -22,8 +24,8 @@ myCodexWebsite=codexinstitute.com
 myCodexPlace=Quito
 myCodexCountry=Ecuador
 myNicolasWebDevDate=Junio 2016 - Presente=June 2016 - Present=Juin 2016 - Présent
-myNicolasWebDevDescription=Desarrollo Web Ágil y Consultoría. Puedo desarrollar la Webapp que su empresa necesita, usando Ruby on Rails. Ofrezco también consultoría sobre procesos de desarrollo de software, para ayudarles con el mantenimiento de sus productos y acelerar la velocidad de su desarrollo.==
-myNicolasWebDevJobType=Desarrollador Web y Consultor=Web Developer and Consultant=Développeur Web et Consultant
+myNicolasWebDevDescription=Servicio de asesoría a empresas tecnológicas, para ayudarles a optimizar sus procesos de desarrollo, con el fin de reducir costos de operación y de mantenimiento, mejorar la calidad del producto y aumentar la velocidad del desarrollo. También trabajo como Desarrollador Web Freelance, utilizando frameworks modernos (Ruby on Rails, React.js/Express.js/Node.js) y metodologías ágiles.==
+myNicolasWebDevJobType=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Web Developer and Consultant=Développeur Web et Consultant
 myNicolasWebDevEmployer=Freelance
 myNicolasWebDevWebsite=nicolaswebdev.com
 myNicolasWebDevPlace=Quito
@@ -102,10 +104,10 @@ labelWebDevFrameworks=Frameworks de Desarrollo Web
 labelMethodologies=Métodologias de Programación
 myMethodologies=Programación Extrema (XP), SCRUM
 labelPractices=Practicas de Programación
-myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua
+myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua, integración y entrega continua, testing
 labelOtherSkills=Otros
 myOtherSkills=Mecanografía (touchtyping)
-myWebDevFrameworks=Ruby on Rails
+myWebDevFrameworks=Ruby on Rails, Express.js con React.js
 labelEducation=Educación=Educacion=Éducacion
 labelLanguages=Idiomas=Languages=Langues
 labelInterestsAndHobbies=Intereses y Hobbies=Interests and hobbies=Intérêts et hobbies
@@ -129,59 +131,77 @@ labelWebsite=Sitio web=Website=Site web
 myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linux et l'Open-Source
 myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
 myHobby3=Música, toco el harmonica
-myDesiredEmployment=Freelancer en Desarrollo Web y Consulting==
-mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación y de varias métodologías ágiles. He estado involucrado en importantes proyectos durante mis pasantías, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
+myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil==
+mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
 myEdxUrl=edx.org
 myCourseraUrl=coursera.org
 labelTechnicalBooks=Libros Técnicos Leídos
 labelPostalAddress=Dirección==
 myColon=:=:= :
 myPostalAddress=Granda Centeno, Quito, Ecuador==
-book1Title=Extreme Programming Explained: Embrace Change
-book1Author=Kent Beck
-book1Date=2004
-book2Title=Programming in Python 3: A Complete Introduction to the Python Language
-book2Author=Mark Summerfield
-book2Date=2009
-book3Title=Refactoring: Improving the Design of Existing Code
-book3Author=Martin Fowler and Kent Beck
-book3Date=1999
-book4Title=Test-Driven Development: By Example
-book4Author=Kent Beck
-book4Date=2003
-book5Title=The Well-Grounded Rubyist
-book5Author=David A. Black
-book5Date=2014
-book6Title=Essential Scrum: A Practical Guide to the Most Popular Agile Process
-book6Author=Kenneth S. Rubin
-book6Date=2012
-book7Title=Masterminds of Programming: Conversations With the Creators of Major Programming Languages
-book7Author=Federico Biancuzzi
+book1Title=The Mythical Man-Month: Essays on Software Engineering
+book1Author=Frederick Phillips Brooks
+book1Date=1995
+book2Title=Refactoring: Improving the Design of Existing Code
+book2Author=Martin Fowler and Kent Beck
+book2Date=1999
+book3Title=Test-Driven Development: By Example
+book3Author=Kent Beck
+book3Date=2003
+book4Title=Extreme Programming Explained: Embrace Change
+book4Author=Kent Beck and Cynthia Andres
+book4Date=2004
+book5Title=Working Effectively With Legacy Code
+book5Author=Michael C. Feathers
+book5Date=2004
+book6Title=Rails Antipatterns: Best Practice Ruby on Rails Refactoring
+book6Author=Chad Pytel and Tammer Saleh
+book6Date=2010
+book7Title=Programming in Python 3: A Complete Introduction to the Python Language
+book7Author=Mark Summerfield
 book7Date=2009
-book8Title=Working Effectively With Legacy Code
-book8Author=Michael C. Feathers
-book8Date=2004
-book9Title=The Mythical Man-Month: Essays on Software Engineering
-book9Author=Frederick Phillips Brooks
-book9Date=1995
-book10Title=Rails Antipatterns: Best Practice Ruby on Rails Refactoring
-book10=Chad Pytel and Tammer Saleh
-book10Date=2010
-book11Title=Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
-book11Author=Dave Hoover and Adewale Oshineye
-book11Date=2009
-book12Title=Learn You a Haskell for Great Good!: A Beginner's Guide
-book12Author=Miran Lipovača
-book12Date=2011
-book13Title=Agile Web Development With Rails 4
-book13Author=Sam Ruby and David Thomas and David Heinemeier Hansson
-book13Date=2013
-book14Title=Practical Object-Oriented Design in Ruby: An Agile Primer
-book14Author=Sandi Metz
-book14Date=2012
-book15Title=The Pragmatic Programmer: From Journeyman to Master
-book15Author=Andrew Hunt
-book15Date=1999
+book8Title=Masterminds of Programming: Conversations With the Creators of Major Programming Languages (Theory in Practice (O'Reilly))
+book8Author=Federico Biancuzzi and Chromatic
+book8Date=2009
+book9Title=The Well-Grounded Rubyist
+book9Author=David A. Black
+book9Date=2014
+book10Title=Agile Web Development With Rails 4
+book10Author=Sam Ruby and David Thomas and David Heinemeier Hansson
+book10Date=2013
+book11Title=The Pragmatic Programmer: From Journeyman to Master
+book11Author=Andrew Hunt
+book11Date=1999
+book12Title=Essential Scrum: A Practical Guide to the Most Popular Agile Process
+book12Author=Kenneth S. Rubin
+book12Date=2012
+book13Title=Practical Object-Oriented Design in Ruby: An Agile Primer
+book13Author=Sandi Metz
+book13Date=2012
+book14Title=The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+book14Author=Gene Kim and Kevin Behr and George Spafford
+book14Date=2014
+book15Title=Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+book15Author=Dave Hoover and Adewale Oshineye
+book15Date=2009
+book16Title=Learn You a Haskell for Great Good!: A Beginner's Guide
+book16Author=Miran Lipovača
+book16Date=2011
+book17Title=JavaScript and JQuery: Interactive Front-End Web Development
+book17Author=Jon Duckett
+book17Date=2014
+book18Title=Soft Skills: The Software Developer's Life Manual
+book18Author=John Z. Sonmez
+book18Date=2014
+book19Title=HTML and CSS: Design and Build Websites
+book19Author=Jon Duckett
+book19Date=2011
+book20Title=Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby)
+book20Author=Jay Fields and Shane Harvie and Martin Fowler
+book20Date=2009
+book21Title=Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series)
+book21Author=David Herman
+book21Date=2012
 course1Date=Agosto 2014
 course1Name=Principles of Computing
 course1School=Rice University
