@@ -16,7 +16,7 @@ myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATL
 myTechTools=Virtualización con Docker, manejo de Cloud con Amazon Web Services, control de revisiones con git y bazaar
 labelTechTools=Herramientas
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
-myCodexDate=Julio 2016 - Presente=July 2016 - Present=Juillet 2016 - Présent
+myCodexDate=Julio 2016 - Febrero 2017=July 2016 - Present=Juillet 2016 - Présent
 myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular==
 myCodexJobType=Director Académico=Academic Director=Directeur Académique
 myCodexEmployer=CodexInstitute SA
