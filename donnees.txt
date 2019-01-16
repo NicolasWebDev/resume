@@ -1,15 +1,17 @@
 myName=SCHMITT
 labelLinkedin=LinkedIn
+labelWebsite=Sitio Web=Website=Site Web
 labelGithub=Github
 myLinkedin=linkedin.com/in/nicolaswebdev
+myWebsite=nicolaswebdev.com
 myGithub=github.com/NicolasWebDev
 mySurname=Nicolas
 myAddressStreet=Vasco de Contreras N36-209
 myAddressCity=Quito
-myMobileNumber=0979255012
+myMobileNumber=+593 97 925 5012
 myPhoneNumber===
 myMail=info@nicolaswebdev.com
-myBirthDate=13 de enero 1989==13 janvier 1989
+myBirthDate=13 de enero 1989=January 13, 1989=13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
 myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript, Node.js, PHP
@@ -58,10 +60,10 @@ myCybertekWebsite=www.cybertek.fr
 myCybertekPlace=Toulouse
 myCybertekCountry=Francia=France=France
 myTripDate=Enero - Diciembre 2013=January-December 2013=Janvier-Décembre 2013
-myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.==
+myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.=Bicycle trip with a friend, from Paris to Madrid and then from Argentina to Ecuador. Eight thousand kilometers in eleven months. We went across France, Spain, Argentina, Uruguay, Paraguay, Bolivia, Peru and Ecuador. We slept in a tent or at local's houses.=
 myEnseeihtDate=Septiembre 2007 - Septiembre 2012=September 2009-September 2012=
 labelVisa=Visa
-myVisa=9 V EC Profesional Indefinida, Residente con cédula
+myVisa=9 V EC Profesional Indefinida, Residente con cédula=Permanent residency in Ecuador=
 myEnseeihtDescription=ENSEEIHT (Escuela Nacional Superior de Electrónica, de Electricidad, de Informática, de Hidráulica y de Telecomunicaciones). Registros Senescyt 7766R-14-14628 y 7766R-14-15735.==
 myEnseeihtTitle=Ingeniero con maestría en Telecomunicaciones y Redes Informáticas=Engineer in Telecommunications and Computer Networks=Ingénieur Télécommunications et Réseaux Informatiques
 myCppTitle=Cycle Préparatoire Polytechnique de Nancy
@@ -80,22 +82,22 @@ myInfotechTitle=Programa de intercambio ERASMUS=Exchange program ERASMUS=Program
 myInfotechInstitution=INFOTECH
 myInfotechPlace=Stuttgart
 myInfotechCountry=Alemania=Germany=Allemagne
-myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Talked and written. TOEIC (Test of English for International Communication) title, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
+myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Fluent in written and spoken English. TOEIC (Test of English for International Communication) title, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
 myTripWebsite=envolavelo.fr
 mySpanishDescription=Hablado y escrito. Cuatro años viviendo en América Latina.=Talked and written. Three years in Latinamerica.=Parlé et écrit. Trois ans en Amérique Latine.
-myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.==
-myPortugueseDescription=Nivel básico.
+myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.=Average. 10 years of study at school. 6 months school exchange during university, in Stuttgart.=
+myPortugueseDescription=Nivel básico.=Basic=
 labelPortuguese=Portugués
-myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.==
+myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.=Basic. 2 years at the university.=
 myFrenchDescription=Lengua materna.=Maternal language.=Langue maternelle.
 myDrivingLicence=Francesa=French=Français
 myEnseeihtWebsite=www.enseeiht.fr/en=www.enseeiht.fr/en=www.enseeiht.fr
 myInfotechWebsite=www.uni-stuttgart.de/infotech
-labelInfo=Información=Infomations=Informations
+labelInfo=Información=Information=Information
 labelBirth=Nacimiento=Birth=Naissance
 labelCitizenship=Nacionalidad=Citizenship=Nationalité
-labelDrivingLicense=Licencia de conducir=DrivingLicense=Permis de conduire
-labelDesiredEmploymentAndSkills=Trabajo Actual y Competencias=Desired employment and skills=Travail recherché et compétences
+labelDrivingLicense=Licencia de conducir=Driving License=Permis de conduire
+labelDesiredEmploymentAndSkills=Trabajo Actual=Current employment=Travail recherché
 labelComputerSkills=Habilidades Informáticas=Computer skills=Capacités informatiques
 labelExperience=Experiencia=Experience=Experience
 labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)
@@ -108,7 +110,7 @@ myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora co
 labelOtherSkills=Otros
 myOtherSkills=Mecanografía (touchtyping)
 myWebDevFrameworks=Ruby on Rails, Express.js con React.js
-labelEducation=Educación=Educacion=Éducacion
+labelEducation=Educación=Education=Éducation
 labelLanguages=Idiomas=Languages=Langues
 labelInterestsAndHobbies=Intereses y Hobbies=Interests and hobbies=Intérêts et hobbies
 labelExtra=Extra
@@ -123,22 +125,21 @@ myEdxDescription=Fundado en 2012 por la universidad de Harvard y el Instituto Te
 myCourseraDescription=Fundado en 2012. No propone certificados gratuitos desde Junio del 2015.
 labelNoteOnMoocs=Nota sobre los MOOCs
 myNoteOnMoocs=MOOCs (Massive Open Online Courses, o Cursos en Línea Masivos y Abiertos) son plataformas que ofrecen cursos online de nivel universitarío de un amplio rango de disciplinas para todo el mundo sin costos.
-myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela==
+myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela="Helping companies transition to the Agile and Lean philosophy"=
 labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langages de programmation
 labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
 labelCurriculumVitae=Curriculum Vitae
-labelWebsite=Sitio web=Website=Site web
 myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linux et l'Open-Source
 myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
 myHobby3=Música, toco el harmonica
-myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil==
+myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Agility and Technology Advisor=
 mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
 myEdxUrl=edx.org
 myCourseraUrl=coursera.org
 labelTechnicalBooks=Libros Técnicos Leídos
-labelPostalAddress=Dirección==
+labelPostalAddress=Dirección=Address=
 myColon=:=:= :
-myPostalAddress=Granda Centeno, Quito, Ecuador==
+myPostalAddress=Granda Centeno, Quito, Ecuador=Granda Centeno, Quito, Ecuador=Granda Centeno, Quito, Équateur
 book1Title=The Mythical Man-Month: Essays on Software Engineering
 book1Author=Frederick Phillips Brooks
 book1Date=1995
@@ -172,36 +173,78 @@ book10Date=2013
 book11Title=The Pragmatic Programmer: From Journeyman to Master
 book11Author=Andrew Hunt
 book11Date=1999
-book12Title=Essential Scrum: A Practical Guide to the Most Popular Agile Process
-book12Author=Kenneth S. Rubin
-book12Date=2012
-book13Title=Practical Object-Oriented Design in Ruby: An Agile Primer
-book13Author=Sandi Metz
+book12Title=Scrum: The Art of Doing Twice the Work in Half the Time
+book12Author=Jeff Sutherland
+book12Date=2014
+book13Title=Essential Scrum: A Practical Guide to the Most Popular Agile Process
+book13Author=Kenneth S. Rubin
 book13Date=2012
-book14Title=The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
-book14Author=Gene Kim and Kevin Behr and George Spafford
-book14Date=2014
-book15Title=Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
-book15Author=Dave Hoover and Adewale Oshineye
-book15Date=2009
-book16Title=Learn You a Haskell for Great Good!: A Beginner's Guide
-book16Author=Miran Lipovača
-book16Date=2011
-book17Title=JavaScript and JQuery: Interactive Front-End Web Development
-book17Author=Jon Duckett
-book17Date=2014
-book18Title=Soft Skills: The Software Developer's Life Manual
-book18Author=John Z. Sonmez
-book18Date=2014
-book19Title=HTML and CSS: Design and Build Websites
+book14Title=Practical Object-Oriented Design in Ruby: An Agile Primer
+book14Author=Sandi Metz
+book14Date=2012
+book15Title=The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+book15Author=Gene Kim and Kevin Behr and George Spafford
+book15Date=2014
+book16Title=Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+book16Author=Dave Hoover and Adewale Oshineye
+book16Date=2009
+book17Title=Learn You a Haskell for Great Good!: A Beginner's Guide
+book17Author=Miran Lipovača
+book17Date=2011
+book18Title=Thinking, Fast and Slow
+book18Author=Daniel Kahneman
+book18Date=2011
+book19Title=JavaScript and JQuery: Interactive Front-End Web Development
 book19Author=Jon Duckett
-book19Date=2011
-book20Title=Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby)
-book20Author=Jay Fields and Shane Harvie and Martin Fowler
-book20Date=2009
-book21Title=Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series)
-book21Author=David Herman
-book21Date=2012
+book19Date=2014
+book20Title=Soft Skills: The Software Developer's Life Manual
+book20Author=John Z. Sonmez
+book20Date=2014
+book21Title=HTML and CSS: Design and Build Websites
+book21Author=Jon Duckett
+book21Date=2011
+book22Title=Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby)
+book22Author=Jay Fields and Shane Harvie and Martin Fowler
+book22Date=2009
+book23Title=How to Win Friends and Influence People
+book23Author=Dale Carnegie
+book23Date=2010
+book24Title=Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series)
+book24Author=David Herman
+book24Date=2012
+book25Title=Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation
+book25Author=Jez Humble and David Farley
+book25Date=2010
+book26Title=Building Microservices: Designing Fine-Grained Systems
+book26Author=Sam Newman
+book26Date=2015
+book27Title=Scrum Narrative and PSM Exam Guide: All-in-one Guide for Professional Scrum Master (PSM 1) Certificate Assessment Preparation
+book27Author=Mohammed Musthafa Soukath Ali
+book27Date=2015
+book28Title=Peopleware: Productive Projects and Teams
+book28Author=Tom Demarco and Timothy R. Lister
+book28Date=2013
+book29Title=Kanban and Scrum - Making the Most of Both
+book29Author=Henrik Kniberg and Mattias Skarin
+book29Date=2010
+book30Title=Agile Retrospectives: Making Good Teams Great
+book30Author=Esther Derby and Diana Larsen
+book30Date=2006
+book31Title=Getting Started in Consulting
+book31Author=Alan Weiss
+book31Date=2009
+book32Title=Value-Based Fees: How to Charge - and Get - What You're Worth
+book32Author=Alan Weiss
+book32Date=2008
+book33Title=Million Dollar Coaching: Build a World-Class Practice by Helping Others Succeed
+book33Author=Alan Weiss
+book33Date=2011
+book34Title=Our Iceberg is Melting: Changing and Succeeding Under Any Conditions
+book34Author=John Kotter and Holger Rathgeber
+book34Date=2013
+book35Title=Leading Change, With a New Preface by the Author
+book35Author=John P. Kotter
+book35Date=2012
 course1Date=Agosto 2014
 course1Name=Principles of Computing
 course1School=Rice University
