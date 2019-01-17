@@ -32,6 +32,13 @@ myNicolasWebDevEmployer=Freelance
 myNicolasWebDevWebsite=nicolaswebdev.com
 myNicolasWebDevPlace=Quito
 myNicolasWebDevCountry=Ecuador
+myLuvefintechDate=November 2017 - April 2018
+myLuvefintechDescription=Part-time work with the startup Luvefintech. In these six months, we released version 1.0 of LuzVerde, a web application that aims to facilitate access and management of credits to consumers. The product is at the time of writing closing its first sales. They have won a startup acceleration program in Mexico.
+myLuvefintechJobType=Agile and Extreme Programming (XP) Coach, and Scrum Master
+myLuvefintechEmployer=Luvefintech
+myLuvefintechWebsite=www.eluniverso.com/noticias/nota/6873677/luz-verde-10-mejores-empresas-programa-industria-financiera-latinoamerica
+myLuvefintechPlace=Quito
+myLuvefintechCountry=Ecuador
 myProtelDate=Agosto 2014 - Junio 2016=August 2014 - June 2016=Août 2014 - Juin 2016
 myProtelDescription=Coordinador del equipo de desarrollo, compuesto de seis personas. Desarrollo de un ERP financiero usando el framework open-source Odoo (con Python y PostgreSQL). Implementación de pruebas automaticas, de procesos de desarrollo ágiles (XP/Scrum), de programación en par y de mejora continua. Capacitaciones y presentaciones al equipo de desarrollo. Esto me permitió desarrollar mis competencias de manager.=Coordinator of the software development team, made up of six people. Development of an ERP (Enterprise Resource Planning), using the open-source Odoo framework (using Python and PostgreSQL). Introduction of automatic tests in the company, along with Agile methodologies and processes (XP/Scrum), pair-programming and continuous improvement. Training and workshops to the development team. This experience gave me the opportunity to improve my managing and leadership skills.=
 myAlcatelDate=Marzo - Octubre 2012=March-October 2012=Mars-Octobre 2012
