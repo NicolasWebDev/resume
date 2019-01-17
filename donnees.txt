@@ -14,9 +14,9 @@ myMail=info@nicolaswebdev.com
 myBirthDate=13 de enero 1989=January 13, 1989=13 janvier 1989
 myBirthPlace=Saint-Germain-en-Laye, Francia=Saint-Germain-en-Laye, France=Saint-Germain-en-Laye, France
 myCitizenship=Francesa=French=Français
-myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript, Node.js, PHP
-myTechTools=Virtualización con Docker, manejo de Cloud con Amazon Web Services, control de revisiones con git y bazaar
-labelTechTools=Herramientas
+myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATLAB, Python, Ruby, Haskell, Javascript, Node.js, PHP, Typescript
+myTechTools=Virtualización con Docker, manejo de Cloud con Amazon Web Services, control de revisiones con git y bazaar=Containerization with Docker, Continuous Integration/Deployment, Amazon Web Services, version control with git
+labelTechTools=Herramientas=Tools
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
 myCodexDate=Julio 2016 - Febrero 2017=July 2016 - Present=Juillet 2016 - Présent
 myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular==
@@ -61,11 +61,11 @@ myCybertekPlace=Toulouse
 myCybertekCountry=Francia=France=France
 myTripDate=Enero - Diciembre 2013=January-December 2013=Janvier-Décembre 2013
 myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.=Bicycle trip with a friend, from Paris to Madrid and then from Argentina to Ecuador. Eight thousand kilometers in eleven months. We went across France, Spain, Argentina, Uruguay, Paraguay, Bolivia, Peru and Ecuador. We slept in a tent or at local's houses.=
-myEnseeihtDate=Septiembre 2007 - Septiembre 2012=September 2009-September 2012=
+myEnseeihtDate=Septiembre 2007 - Septiembre 2012=September 2007 - September 2012=
 labelVisa=Visa
 myVisa=9 V EC Profesional Indefinida, Residente con cédula=Permanent residency in Ecuador=
-myEnseeihtDescription=ENSEEIHT (Escuela Nacional Superior de Electrónica, de Electricidad, de Informática, de Hidráulica y de Telecomunicaciones). Registros Senescyt 7766R-14-14628 y 7766R-14-15735.==
-myEnseeihtTitle=Ingeniero con maestría en Telecomunicaciones y Redes Informáticas=Engineer in Telecommunications and Computer Networks=Ingénieur Télécommunications et Réseaux Informatiques
+myEnseeihtDescription=ENSEEIHT (Escuela Nacional Superior de Electrónica, de Electricidad, de Informática, de Hidráulica y de Telecomunicaciones). Registros Senescyt 7766R-14-14628 y 7766R-14-15735.=ENSEEIHT: École Nationale Supérieure d’Elecrotechnique, d’Electronique, d’Informatique, d’Hydrolique et des Télécommunications (Superior National School of Electric, Electronic, Computer Science, Hydraulics and Telecommunications).=
+myEnseeihtTitle=Ingeniero con maestría en Telecomunicaciones y Redes Informáticas=Master in Telecommunications and Computer Networks Engineering=Ingénieur Télécommunications et Réseaux Informatiques
 myCppTitle=Cycle Préparatoire Polytechnique de Nancy
 myCppDate=Septiembre 2007 - Agosto 2009
 myCppDescription=Escuela de preparacion a la entrada en la Escuela de ingeniero.
@@ -76,8 +76,8 @@ myCppWebsite=www.la-prepa-des-inp.fr
 myEnseeihtInstitution=ENSEEIHT
 myEnseeihtPlace=Toulouse
 myEnseeihtCountry=Francia=France=France
-myInfotechDate=Octubre 2011 - Marzo 2012=October-March 2012=Octobre-Mars 2012
-myInfotechDescription=Un semestre cursando una maestría internacional (en inglés), sobre informática y  telecomunicaciones.=International master (in english), on IT and telecommunications.=Master international (en anglais), sur l'informatique et les télécommunications.
+myInfotechDate=Octubre 2011 - Marzo 2012=October 2011 - March 2012=Octobre-Mars 2012
+myInfotechDescription=Un semestre cursando una maestría internacional (en inglés), sobre informática y  telecomunicaciones.=International Master (courses given in english), on Computer Science and Telecommunications.=Master international (en anglais), sur l'informatique et les télécommunications.
 myInfotechTitle=Programa de intercambio ERASMUS=Exchange program ERASMUS=Programme d'échange ERASMUS
 myInfotechInstitution=INFOTECH
 myInfotechPlace=Stuttgart
@@ -90,7 +90,7 @@ myPortugueseDescription=Nivel básico.=Basic=
 labelPortuguese=Portugués
 myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.=Basic. 2 years at the university.=
 myFrenchDescription=Lengua materna.=Maternal language.=Langue maternelle.
-myDrivingLicence=Francesa=French=Français
+myDrivingLicence=Francesa=French, Ecuadorian=Français
 myEnseeihtWebsite=www.enseeiht.fr/en=www.enseeiht.fr/en=www.enseeiht.fr
 myInfotechWebsite=www.uni-stuttgart.de/infotech
 labelInfo=Información=Information=Information
@@ -98,18 +98,18 @@ labelBirth=Nacimiento=Birth=Naissance
 labelCitizenship=Nacionalidad=Citizenship=Nationalité
 labelDrivingLicense=Licencia de conducir=Driving License=Permis de conduire
 labelDesiredEmploymentAndSkills=Trabajo Actual=Current employment=Travail recherché
-labelComputerSkills=Habilidades Informáticas=Computer skills=Capacités informatiques
+labelComputerSkills=Habilidades Informáticas=Skills=Capacités informatiques
 labelExperience=Experiencia=Experience=Experience
-labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)
-myERPFrameworks=Odoo (desarrollado en Python)
-labelWebDevFrameworks=Frameworks de Desarrollo Web
-labelMethodologies=Métodologias de Programación
-myMethodologies=Programación Extrema (XP), SCRUM
-labelPractices=Practicas de Programación
-myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua, integración y entrega continua, testing
-labelOtherSkills=Otros
-myOtherSkills=Mecanografía (touchtyping)
-myWebDevFrameworks=Ruby on Rails, Express.js con React.js
+labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)=ERP frameworks (Enterprise Resource Planning)
+myERPFrameworks=Odoo (desarrollado en Python)=Odoo (developed in Python)
+labelWebDevFrameworks=Frameworks de Desarrollo Web=Web Development Frameworks
+labelMethodologies=Métodologias de Programación=Methodologies
+myMethodologies=Programación Extrema (XP), SCRUM=Extreme Programming (XP), Scrum, Kanban
+labelPractices=Practicas de Programación=Programming Practices
+myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua, integración y entrega continua, testing=TDD (Test-Driven Development), Pair-Programming, continuous improvement, CI/CD, functional testing with Puppeteer
+labelOtherSkills=Otros=Others
+myOtherSkills=Touch typing, facilitation of meetings, coaching, training, organization of workshops
+myWebDevFrameworks=Ruby on Rails, Express.js con React.js=Ruby on Rails, Express.js with React.js
 labelEducation=Educación=Education=Éducation
 labelLanguages=Idiomas=Languages=Langues
 labelInterestsAndHobbies=Intereses y Hobbies=Interests and hobbies=Intérêts et hobbies
@@ -125,7 +125,8 @@ myEdxDescription=Fundado en 2012 por la universidad de Harvard y el Instituto Te
 myCourseraDescription=Fundado en 2012. No propone certificados gratuitos desde Junio del 2015.
 labelNoteOnMoocs=Nota sobre los MOOCs
 myNoteOnMoocs=MOOCs (Massive Open Online Courses, o Cursos en Línea Masivos y Abiertos) son plataformas que ofrecen cursos online de nivel universitarío de un amplio rango de disciplinas para todo el mundo sin costos.
-myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela="Helping companies transition to the Agile and Lean philosophy"=
+myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela="Transforming organizations and people through the Agile
+and Lean philosophies."=
 labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langages de programmation
 labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
 labelCurriculumVitae=Curriculum Vitae
@@ -133,7 +134,7 @@ myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linu
 myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
 myHobby3=Música, toco el harmonica
 myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Agility and Technology Advisor=
-mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.==
+mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.=I studied a Master in Telecommunications and Computer Networks. I began my professional career as a Web Developer, before discovering the Agile philosophy and that product development is essentially a social endeavour. I then decided to dedicate myself to help companies and development teams mature and grow with the support of Agile and Lean.=
 myEdxUrl=edx.org
 myCourseraUrl=coursera.org
 labelTechnicalBooks=Libros Técnicos Leídos
