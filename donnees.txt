@@ -18,28 +18,28 @@ myProgrammingLanguages=Java J2EE, JSP, C, Latex, bash, HTML, CSS, XML, SQL, MATL
 myTechTools=Virtualización con Docker, manejo de Cloud con Amazon Web Services, control de revisiones con git y bazaar=Containerization with Docker, Continuous Integration/Deployment, Amazon Web Services, version control with git
 labelTechTools=Herramientas=Tools
 myOperatingSystems=Linux y Windows=Linux and Windows=Linux et Windows
-myCodexDate=Julio 2016 - Febrero 2017=July 2016 - Present=Juillet 2016 - Présent
-myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular==
+myCodexDate=Julio 2016 - Febrero 2017=July 2016 - February 2017=Juillet 2016 - Présent
+myCodexDescription=Trabajo como director académico en Codex, un nuevo instituto que ofrece cursos de desarrollo en Quito. Los cursos son para desarrolladores profesionales que quieren aprender nuevas tecnologías, pero también para principiantes que quieren entrar en el mundo de la informática. Algunos de los cursos que ofrecemos: Introducción a la Programación (parte 1), Bases de Desarrollo Web (HTML/CSS/JS), Desarrollo Android, Desarrollo Javascript Front-End con Angular=Work as academic director of Codex, an institute that offers programming courses in Quito. Courses are meant for professional developers that want to learn new technologies, but are also aimed at beginners that want to enter the world of IT. Some of the courses offered: Introduction to Programming, Basics of Web Development (HTML/CSS/JS), Android Development, Front-End Javascript Development with Angular.=
 myCodexJobType=Director Académico=Academic Director=Directeur Académique
 myCodexEmployer=CodexInstitute SA
 myCodexWebsite=codexinstitute.com
 myCodexPlace=Quito
 myCodexCountry=Ecuador
 myNicolasWebDevDate=Junio 2016 - Presente=June 2016 - Present=Juin 2016 - Présent
-myNicolasWebDevDescription=Servicio de asesoría a empresas tecnológicas, para ayudarles a optimizar sus procesos de desarrollo, con el fin de reducir costos de operación y de mantenimiento, mejorar la calidad del producto y aumentar la velocidad del desarrollo. También trabajo como Desarrollador Web Freelance, utilizando frameworks modernos (Ruby on Rails, React.js/Express.js/Node.js) y metodologías ágiles.==
-myNicolasWebDevJobType=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Web Developer and Consultant=Développeur Web et Consultant
+myNicolasWebDevDescription=Servicio de asesoría a empresas tecnológicas, para ayudarles a optimizar sus procesos de desarrollo, con el fin de reducir costos de operación y de mantenimiento, mejorar la calidad del producto y aumentar la velocidad del desarrollo. También trabajo como Desarrollador Web Freelance, utilizando frameworks modernos (Ruby on Rails, React.js/Express.js/Node.js) y metodologías ágiles.=Leverage the Agile and Lean philosophies to help technological companies improve their development teams, their organization and ultimately their technological product. Implementation of programming practices (like automatic testing, pair-programming...), continuous improvement, trainings, coaching, etc.=
+myNicolasWebDevJobType=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Agility and Technology Advisor=Développeur Web et Consultant
 myNicolasWebDevEmployer=Freelance
 myNicolasWebDevWebsite=nicolaswebdev.com
 myNicolasWebDevPlace=Quito
 myNicolasWebDevCountry=Ecuador
 myProtelDate=Agosto 2014 - Junio 2016=August 2014 - June 2016=Août 2014 - Juin 2016
-myProtelDescription=Coordinador del equipo de desarrollo, compuesto de seis personas. Desarrollo de un ERP financiero usando el framework open-source Odoo (con Python y PostgreSQL). Implementación de pruebas automaticas, de procesos de desarrollo ágiles (XP/Scrum), de programación en par y de mejora continua. Capacitaciones y presentaciones al equipo de desarrollo. Esto me permitió desarrollar mis competencias de manager.==
+myProtelDescription=Coordinador del equipo de desarrollo, compuesto de seis personas. Desarrollo de un ERP financiero usando el framework open-source Odoo (con Python y PostgreSQL). Implementación de pruebas automaticas, de procesos de desarrollo ágiles (XP/Scrum), de programación en par y de mejora continua. Capacitaciones y presentaciones al equipo de desarrollo. Esto me permitió desarrollar mis competencias de manager.=Coordinator of the software development team, made up of six people. Development of an ERP (Enterprise Resource Planning), using the open-source Odoo framework (using Python and PostgreSQL). Introduction of automatic tests in the company, along with Agile methodologies and processes (XP/Scrum), pair-programming and continuous improvement. Training and workshops to the development team. This experience gave me the opportunity to improve my managing and leadership skills.=
 myAlcatelDate=Marzo - Octubre 2012=March-October 2012=Mars-Octobre 2012
-myAtosDescription=Mejoramiento de un programa Java de monitoreo de flotas de vehículos ubicados con GPS. Trabajo en el protocolo de transmisión, asicomo en la interfaz web usando la tecnología Servlets Java. Programa muy grande, con muchas partes de retro-ingeniería (otra compañía empezó el código).==
+myAtosDescription=Mejoramiento de un programa Java de monitoreo de flotas de vehículos ubicados con GPS. Trabajo en el protocolo de transmisión, asicomo en la interfaz web usando la tecnología Servlets Java. Programa muy grande, con muchas partes de retro-ingeniería (otra compañía empezó el código).=Improvement of a Java program to monitor vehicle fleet with GPS. Work on the transmission protocol and on the web interface using the Java Servlets technology. Really big legacy program, with a lot of retro-engineering needed because another company had begun the work.=
 myAtosEmployer=Atos
 myAtosWebsite=atos.net
 myJobType=Pasantía=Internship=Stage
-myProtelJobType=Coordinador de Desarrollo
+myProtelJobType=Coordinador de Desarrollo=Development Team Coordinator
 myProtelEmployer=ProtelCotelsa S.A.
 myProtelWebsite=www.protelcotelsa.com
 myProtelAltWebsite=sistema-olympo.com
@@ -48,13 +48,13 @@ myProtelCountry=Ecuador
 myAtosPlace=Toulouse
 myAtosCountry=Francia=France=France
 myAtosDate=Junio - Septiembre 2011=June-September 2011=Juin-Septembre 2011
-myAlcatelDescription=Trabajo sobre algoritmos de auto configuración de grupos de small cells 3G (small cell: estación pequeña que permite extender la cobertura del señal en interiores). Desarrollo de un programa en MATLAB para procesar logs y visualizar en 3D interacciones entre las small cells, con el fin de mejorar los algoritmos. Trabajo sobre dos proyectos diferentes: una red de small cells cubriendo un hospital y asimismo en los edificios que se construyeron para los Juegos Olímpicos 2012 de Londres. Equipo repartido en diferentes países.==
+myAlcatelDescription=Trabajo sobre algoritmos de auto configuración de grupos de small cells 3G (small cell: estación pequeña que permite extender la cobertura del señal en interiores). Desarrollo de un programa en MATLAB para procesar logs y visualizar en 3D interacciones entre las small cells, con el fin de mejorar los algoritmos. Trabajo sobre dos proyectos diferentes: una red de small cells cubriendo un hospital y asimismo en los edificios que se construyeron para los Juegos Olímpicos 2012 de Londres. Equipo repartido en diferentes países.=Work on auto-configuration algorithms of 3G small cells (small cell: small station used to extend the coverage of 3G signal inside buildings). Development of a program in MATLAB to process logs and visualize in 3D the interactions between the cells to improve the algorithms. Work on two different projects: one small cluster of small cells covering a hospital, and another in buildings of the Olympic Village of London 2012. The team was spread across different countries, with people from different cultures.=
 myAlcatelEmployer=Alcatel-Lucent
 myAlcatelWebsite=www.alcatel-lucent.com
 myAlcatelPlace=París=Paris=Paris
 myAlcatelCountry=Francia=France=France
 myCybertekDate=Julio - Septiembre 2010=July-September 2010=
-myCybertekDescription=Trabajo en una tienda de informática. Servicio de reparación de hardware y software, venta, asesoría al cliente.==
+myCybertekDescription=Trabajo en una tienda de informática. Servicio de reparación de hardware y software, venta, asesoría al cliente.=Internship at a computer shop. Repair of computers, sales, client relations.=
 myCybertekEmployer=Cybertek
 myCybertekWebsite=www.cybertek.fr
 myCybertekPlace=Toulouse
@@ -100,7 +100,7 @@ labelDrivingLicense=Licencia de conducir=Driving License=Permis de conduire
 labelDesiredEmploymentAndSkills=Trabajo Actual=Current employment=Travail recherché
 labelComputerSkills=Habilidades Informáticas=Skills=Capacités informatiques
 labelExperience=Experiencia=Experience=Experience
-labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)=ERP frameworks (Enterprise Resource Planning)
+labelERPFrameworks=Frameworks ERP (Enterprise Resource Planning)=ERP Frameworks (Enterprise Resource Planning)
 myERPFrameworks=Odoo (desarrollado en Python)=Odoo (developed in Python)
 labelWebDevFrameworks=Frameworks de Desarrollo Web=Web Development Frameworks
 labelMethodologies=Métodologias de Programación=Methodologies
@@ -119,14 +119,13 @@ labelSpanish=Castellano=Spanish=Espagnol
 labelGerman=Alemán=German=Allemand
 labelFrench=Francés=French=Français
 labelJapanese=Japonés=Japanese=Japonais
-labelTraining=Formación Continua
-labelCourses=Cursos
-myEdxDescription=Fundado en 2012 por la universidad de Harvard y el Instituto Tecnológico de Massachusetts (MIT). No propone certificados gratuitos desde el primero de Enero del 2016.
-myCourseraDescription=Fundado en 2012. No propone certificados gratuitos desde Junio del 2015.
-labelNoteOnMoocs=Nota sobre los MOOCs
-myNoteOnMoocs=MOOCs (Massive Open Online Courses, o Cursos en Línea Masivos y Abiertos) son plataformas que ofrecen cursos online de nivel universitarío de un amplio rango de disciplinas para todo el mundo sin costos.
-myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela="Transforming organizations and people through the Agile
-and Lean philosophies."=
+labelTraining=Formación Continua=Continuous Education
+labelCourses=Cursos=Courses and Certifications
+myEdxDescription=Fundado en 2012 por la universidad de Harvard y el Instituto Tecnológico de Massachusetts (MIT). No propone certificados gratuitos desde el primero de Enero del 2016.=Founded in 2012 by the Harvard University in conjunction with the MIT. Do not offer free certificates since January 2016.
+myCourseraDescription=Fundado en 2012. No propone certificados gratuitos desde Junio del 2015.=Founded in 2012. Do not offer free certificates since June 2015.
+labelNoteOnMoocs=Nota sobre los MOOCs=Note on the MOOCs
+myNoteOnMoocs=MOOCs (Massive Open Online Courses, o Cursos en Línea Masivos y Abiertos) son plataformas que ofrecen cursos online de nivel universitarío de un amplio rango de disciplinas para todo el mundo sin costos.=MOOCs (Massive Open Online Courses) are online platforms that offer university-level courses in many different fields, for anybody.
+myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo indecible para divertirse." -- Enrique Jardiel Poncela="Transforming organizations and people through the Agile and Lean philosophies."=
 labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langages de programmation
 labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
 labelCurriculumVitae=Curriculum Vitae
@@ -137,7 +136,7 @@ myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarroll
 mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.=I studied a Master in Telecommunications and Computer Networks. I began my professional career as a Web Developer, before discovering the Agile philosophy and that product development is essentially a social endeavour. I then decided to dedicate myself to help companies and development teams mature and grow with the support of Agile and Lean.=
 myEdxUrl=edx.org
 myCourseraUrl=coursera.org
-labelTechnicalBooks=Libros Técnicos Leídos
+labelTechnicalBooks=Libros Técnicos Leídos=Work-related books read
 labelPostalAddress=Dirección=Address=
 myColon=:=:= :
 myPostalAddress=Granda Centeno, Quito, Ecuador=Granda Centeno, Quito, Ecuador=Granda Centeno, Quito, Équateur
@@ -246,55 +245,60 @@ book34Date=2013
 book35Title=Leading Change, With a New Preface by the Author
 book35Author=John P. Kotter
 book35Date=2012
-course1Date=Agosto 2014
+course1Date=Agosto 2014=August 2014
 course1Name=Principles of Computing
 course1School=Rice University
 course1Platform=Coursera
-course2Date=Octubre 2014
+course2Date=Octubre 2014=October 2014
 course2Name=Introduction to Data Science
 course2School=University of Washington
 course2Platform=Coursera
-course3Date=Noviembre 2014
+course3Date=Noviembre 2014=November 2014
 course3Name=Web Application Architectures
 course3School=University of New Mexico
 course3Platform=Coursera
-course4Date=Enero 2015
+course4Date=Enero 2015=January 2015
 course4Name=R Programming
 course4School=Bloomberg School of Public Health
 course4Platform=Coursera
-course5Date=Enero 2015
+course5Date=Enero 2015=January 2015
 course5Name=The Data Scientist's Toolbox
 course5School=John Hopkins University
 course5Platform=Coursera
-course6Date=Diciembre 2014
+course6Date=Diciembre 2014=December 2014
 course6Name=Engineering Software as a Service, Part 1
 course6School=University of California Berkeley
 course6Platform=Edx
-course7Date=Marzo 2015
+course7Date=Marzo 2015=March 2015
 course7Name=Engineering Software as a Service, Part 2
 course7School=University of California Berkeley
 course7Platform=Edx
-course8Date=Mayo 2015
+course8Date=Mayo 2015=May 2015
 course8Name=Computing: Art, Magic, Science
 course8School=Swiss Federal Institute of Technology in Zurich
 course8Platform=Edx
-course9Date=Mayo 2015
+course9Date=Mayo 2015=May 2015
 course9Name=Programming with C\\#
 course9School=Microsoft
 course9Platform=Edx
-course10Date=Julio 2015
+course10Date=Julio 2015=July 2015
 course10Name=Web Design Fundamentals Part 1
 course10School=World Wide Web Consortium (W3C)
 course10Platform=Edx
-course11Date=Agosto 2015
+course11Date=Agosto 2015=August 2015
 course11Name=Inclusive Leadership: Becoming a Successful Leader
 course11School=Catalyst
 course11Platform=Edx
-course12Date=Septiembre 2015
+course12Date=Septiembre 2015=September 2015
 course12Name=Innovation and IT Management
 course12School=Indian Institute of Management of Bangalore
 course12Platform=Edx
-course13Date=Abril 2015
-course13Name=Contabilidad General
-course13School=Centro de Estudios de la Cámara de Comercio de Quito
-withDistinction=Con Distinción
+course13Date=Abril 2015=April 2015
+course13Name=Contabilidad General=General Accounting
+course13School=Centro de Estudios de la Cámara de Comercio de Quito=Training Center of the Quito Chamber of Commerce
+course13Platform= 
+course14Date=Abril 2015=April 2018
+course14Name=Professional Scrum Master I, with 98.8/100
+course14School=Scrum.org
+course14Platform= 
+withDistinction=Con Distinción=With Distinction
