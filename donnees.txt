@@ -60,7 +60,7 @@ myCybertekWebsite=www.cybertek.fr
 myCybertekPlace=Toulouse
 myCybertekCountry=Francia=France=France
 myTripDate=Enero - Diciembre 2013=January-December 2013=Janvier-Décembre 2013
-myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.=Bicycle trip with a friend, from Paris to Madrid and then from Argentina to Ecuador. Eight thousand kilometers in eleven months. We went across France, Spain, Argentina, Uruguay, Paraguay, Bolivia, Peru and Ecuador. We slept in a tent or at local's houses.=
+myTripDescription=Viaje en bicicleta con un amigo, desde París hasta Madrid y desde Argentina hasta Ecuador. Ocho mil kilómetros en once meses. Países atravesados: Francia, España, Argentina, Uruguay, Paraguay, Bolivia, Perú, Ecuador. Durmiendo en carpa o en casa de gente.=Bicycle trip with a friend, from Paris to Madrid and then from Argentina to Ecuador. Eight thousand kilometers in eleven months, across France, Spain, Argentina, Uruguay, Brazil, Paraguay, Bolivia, Peru and Ecuador. We were sleeping in a tent or at locals houses.
 myEnseeihtDate=Septiembre 2007 - Septiembre 2012=September 2007 - September 2012=
 labelVisa=Visa
 myVisa=9 V EC Profesional Indefinida, Residente con cédula=Permanent residency in Ecuador=
@@ -82,13 +82,13 @@ myInfotechTitle=Programa de intercambio ERASMUS=Exchange program ERASMUS=Program
 myInfotechInstitution=INFOTECH
 myInfotechPlace=Stuttgart
 myInfotechCountry=Alemania=Germany=Allemagne
-myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Fluent in written and spoken English. TOEIC (Test of English for International Communication) title, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
+myEnglishDescription=Hablado y escrito. Titulo TOEIC (Test of English for International Communication), con 990 puntos sobre 990.=Fluent in written and spoken English. TOEIC (Test of English for International Communication) diploma, with 990 points out of 990.=Parlé et écrit. Diplôme TOEIC (Test of English for Intenational Communication), avec 990 points sur 990.
 myTripWebsite=envolavelo.fr
-mySpanishDescription=Hablado y escrito. Cuatro años viviendo en América Latina.=Talked and written. Three years in Latinamerica.=Parlé et écrit. Trois ans en Amérique Latine.
-myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.=Average. 10 years of study at school. 6 months school exchange during university, in Stuttgart.=
-myPortugueseDescription=Nivel básico.=Basic=
+mySpanishDescription=Hablado y escrito. Cuatro años viviendo en América Latina.=Spoken and written fluency. Six years in South America.=Parlé et écrit. Trois ans en Amérique Latine.
+myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.=Average level. 10 years of study at school. 6 months school exchange during university, in Stuttgart.
+myPortugueseDescription=Nivel básico.=Basic level.=
 labelPortuguese=Portugués
-myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.=Basic. 2 years at the university.=
+myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.=Basic level. 2 years at the university.=
 myFrenchDescription=Lengua materna.=Maternal language.=Langue maternelle.
 myDrivingLicence=Francesa=French, Ecuadorian=Français
 myEnseeihtWebsite=www.enseeiht.fr/en=www.enseeiht.fr/en=www.enseeiht.fr
@@ -129,9 +129,9 @@ myQuote="Cuando el trabajo no constituye una diversión, hay que trabajar lo ind
 labelProgrammingLanguages=Lenguajes de Programación=Programming languages=Langages de programmation
 labelOperatingSystems=Sistemas Operativos=Operating systems=Systèmes d'exploitation
 labelCurriculumVitae=Curriculum Vitae
-myHobby1=Nuevas tecnologías, Linux y Open-Source=Linux and the Open-Source=Linux et l'Open-Source
-myHobby2=Deporte en general y especialmente bicicleta=Bicycles=Le vélo
-myHobby3=Música, toco el harmonica
+myHobby1=Nuevas tecnologías, Linux y Open-Source=The Open-Source and the Entrepreneurship ecosystems.=Linux et l'Open-Source
+myHobby2=Deporte en general y especialmente bicicleta=Cycling and mountain trekking.=Le vélo
+myHobby3=Música, toco el harmonica=Music, I play the saxophone.
 myDesiredEmployment=Asesor en Optimización de Procesos de Desarrollo, Desarrollador Web Ágil=Agility and Technology Advisor=
 mySkills=Formación en telecomunicaciones con una importante orientación informática. Extenso conocimiento de programación, de varias métodologías ágiles y de mejores prácticas de desarrollo. He estado involucrado en importantes proyectos durante mis trabajos, los cuales me permitieron desarrollar competencias de trabajo en equipo, iniciativa y ponerme a prueba.=I studied a Master in Telecommunications and Computer Networks. I began my professional career as a Web Developer, before discovering the Agile philosophy and that product development is essentially a social endeavour. I then decided to dedicate myself to help companies and development teams mature and grow with the support of Agile and Lean.=
 myEdxUrl=edx.org
