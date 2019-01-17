@@ -101,7 +101,7 @@ myTripWebsite=envolavelo.fr
 mySpanishDescription=Hablado y escrito. Cuatro años viviendo en América Latina.=Spoken and written fluency. Six years in South America.=Parlé et écrit. Trois ans en Amérique Latine.
 myGermanDescription=Nivel medio. Diez años de estudios en el colegio. Seis meses de intercambio universitario en Alemania.=Average level. 10 years of study at school. 6 months school exchange during university, in Stuttgart.
 myPortugueseDescription=Nivel básico.=Basic level.=
-labelPortuguese=Portugués
+labelPortuguese=Portugués=Portuguese
 myJapaneseDescription=Nivel básico. Dos años de estudios en la universidad.=Basic level. 2 years at the university.=
 myFrenchDescription=Lengua materna.=Maternal language.=Langue maternelle.
 myDrivingLicence=Francesa=French, Ecuadorian=Français
@@ -119,7 +119,7 @@ myERPFrameworks=Odoo (desarrollado en Python)=Odoo (developed in Python)
 labelWebDevFrameworks=Frameworks de Desarrollo Web=Web Development Frameworks
 labelMethodologies=Métodologias de Programación=Methodologies
 myMethodologies=Programación Extrema (XP), SCRUM=Extreme Programming (XP), Scrum, Kanban
-labelPractices=Practicas de Programación=Programming Practices
+labelPractices=Practicas de Programación=Practices
 myPractices=TDD (Desarrollo Guiado por Pruebas), programación en par, mejora continua, integración y entrega continua, testing=TDD (Test-Driven Development), Pair-Programming, continuous improvement, CI/CD, functional testing with Puppeteer
 labelOtherSkills=Otros=Others
 myOtherSkills=Touch typing, facilitation of meetings, coaching, training, organization of workshops
